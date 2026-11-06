@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "source": "Pixabay",
+    "user": "Solarselle77",
+    "page": "https://pixabay.com/videos/id-336178/",
+    "duration": 10
+  },
+  "beach": {
+    "source": "Pixabay",
+    "user": "Coverr-Free-Footage",
+    "page": "https://pixabay.com/videos/id-7262/",
+    "duration": 13
+  },
+  "wildlife": {
+    "source": "Pixabay",
+    "user": "gavinllo",
+    "page": "https://pixabay.com/videos/id-126215/",
+    "duration": 9
+  },
+  "fleet-1": {
+    "source": "Pixabay",
+    "user": "jaygeorge",
+    "page": "https://pixabay.com/photos/mercedes-benz-car-white-white-car-841465/"
+  },
+  "fleet-3": {
+    "source": "Pixabay",
+    "user": "Daniele_K",
+    "page": "https://pixabay.com/photos/savannah-africa-safari-tour-trip-8079856/"
+  }
+}

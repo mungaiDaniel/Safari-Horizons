@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.example.com/</loc></url>
+  <url><loc>https://www.example.com/tours</loc></url>
+  <url><loc>https://www.example.com/destinations</loc></url>
+  <url><loc>https://www.example.com/deals</loc></url>
+  <url><loc>https://www.example.com/services</loc></url>
+  <url><loc>https://www.example.com/blog</loc></url>
+  <url><loc>https://www.example.com/about</loc></url>
+  <url><loc>https://www.example.com/contact</loc></url>
+  <url><loc>https://www.example.com/quote</loc></url>
+  <url><loc>https://www.example.com/credits</loc></url>
+  <url><loc>https://www.example.com/tours/kenya-safari-zanzibar-beach</loc></url>
+  <url><loc>https://www.example.com/tours/classic-northern-tanzania</loc></url>
+  <url><loc>https://www.example.com/tours/rwanda-gorilla-trekking</loc></url>
+  <url><loc>https://www.example.com/tours/kenya-honeymoon</loc></url>
+  <url><loc>https://www.example.com/tours/luxury-kenya-safari-beach</loc></url>
+  <url><loc>https://www.example.com/tours/zanzibar-beach-escape</loc></url>
+  <url><loc>https://www.example.com/blog/safari-packing-list</loc></url>
+  <url><loc>https://www.example.com/blog/nairobi-in-a-day</loc></url>
+  <url><loc>https://www.example.com/blog/great-migration-guide</loc></url>
+  <url><loc>https://www.example.com/blog/diani-vs-zanzibar</loc></url>
+</urlset>
