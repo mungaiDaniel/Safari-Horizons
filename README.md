@@ -1,6 +1,6 @@
 # Travel agency site (React + Vite)
 
-Placeholder brand: **Safari Horizons**. Replace with the real client details before launch.
+Brand: **Moreney Travels Limited**.
 
 ## Run locally
 ```bash

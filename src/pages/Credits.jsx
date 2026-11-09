@@ -14,7 +14,7 @@ export default function Credits() {
       <PageHero eyebrow="Credits" title="Photo credits" text="With thanks to the photographers who share their work." img={media.heroWildlife} />
       <section className="section">
         <div className="container article">
-          <p>Photographs courtesy of <a href="https://unsplash.com/?utm_source=safari_horizons&utm_medium=referral" style={{ color: 'var(--amber)' }}>Unsplash</a> contributors:</p>
+          <p>Photographs courtesy of <a href="https://unsplash.com/?utm_source=moreney_travels&utm_medium=referral" style={{ color: 'var(--amber)' }}>Unsplash</a> contributors:</p>
           <p>Video clips courtesy of <a href="https://pixabay.com" style={{ color: 'var(--amber)' }}>Pixabay</a>: {Object.values(pixabay).map((v) => v.user).join(', ')}.</p>
           <ul className="ticks">
             {Object.entries(people).sort().map(([name, url]) => (

@@ -37,12 +37,19 @@ export const visitorDeals = [
 export const services = [
   { icon: 'Plane', title: 'Flight Booking', text: 'Competitive fares on every major airline, with flexible changes and a human on the line.' },
   { icon: 'Hotel', title: 'Hotels & Resorts', text: 'Hand-picked stays from beach resorts to bush camps, booked at negotiated rates.' },
+  { icon: 'House', title: 'Airbnb & Vacation Rentals', text: 'Apartments, villas and beach houses booked for you, with local check-in help and support during your stay.' },
   { icon: 'Compass', title: 'Safari Packages', text: 'Tailor-made itineraries built by guides who actually live here.' },
   { icon: 'Car', title: 'Airport Transfers', text: 'Meet-and-greet pickups in saloons, vans and executive vehicles.' },
   { icon: 'FileCheck', title: 'Visa Assistance', text: 'We prepare documents and guide you through e-visas and permits.' },
   { icon: 'Shield', title: 'Travel Insurance', text: 'Medical and trip cover so surprises stay small.' },
   { icon: 'Users', title: 'Groups & Corporate', text: 'Meetings, incentives and conferences managed end to end.' },
   { icon: 'Heart', title: 'Honeymoons', text: 'Romantic escapes with the little surprises done properly.' },
+]
+
+export const airbnbStays = [
+  { name: 'Beachfront Villa', place: 'Diani Beach', seats: 'Sleeps 6–8', text: 'Private pool, steps from the sand, ideal for families and groups.', img: media.diani },
+  { name: 'Swahili House', place: 'Lamu & Zanzibar', seats: 'Sleeps 2–4', text: 'Characterful island homes with rooftop terraces and sea views.', img: media.lamu },
+  { name: 'City Apartment', place: 'Nairobi, Mombasa & Cape Town', seats: 'Sleeps 2–5', text: 'Fully furnished apartments for business trips and longer stays.', img: media.capeTown },
 ]
 
 export const team = [
